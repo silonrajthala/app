@@ -1,0 +1,6 @@
+D:\DApp\CreditCardSettEMAIL\CreditCardSettEMAIL\bin\Debug\CreditCardSettEMAIL.exe.config
+D:\DApp\CreditCardSettEMAIL\CreditCardSettEMAIL\bin\Debug\CreditCardSettEMAIL.exe
+D:\DApp\CreditCardSettEMAIL\CreditCardSettEMAIL\bin\Debug\CreditCardSettEMAIL.pdb
+D:\DApp\CreditCardSettEMAIL\CreditCardSettEMAIL\obj\Debug\CreditCardSettEMAIL.csprojResolveAssemblyReference.cache
+D:\DApp\CreditCardSettEMAIL\CreditCardSettEMAIL\obj\Debug\CreditCardSettEMAIL.exe
+D:\DApp\CreditCardSettEMAIL\CreditCardSettEMAIL\obj\Debug\CreditCardSettEMAIL.pdb
